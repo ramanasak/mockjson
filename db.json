@@ -1,8 +1,10 @@
 {
-  "posts": [
+  "Attendance": [
     {
-      "id": 1,
-      "title": "hello"
+      "date": "2018-12-28",
+    },
+    {
+      "date": "2018-12-29",
     }
   ],
   "profile": {
